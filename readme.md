@@ -1,4 +1,4 @@
-in tbl_truck_data i want alter uniqe key with auto incrriment like 'VT00001' after that 'VT00002' it would be automatically done when a new data added
+in truck_data i want alter uniqe key with auto incrriment like 'VT00001' after that 'VT00002' it would be automatically done when a new data added
 
 
 ChatGPT said:
